@@ -3,3 +3,5 @@
 writable/cache/*
 writable/logs/*
 writable/debugbar/*
+writable/session/*
+writable/uploads/*
