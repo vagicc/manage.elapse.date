@@ -5,3 +5,5 @@ writable/logs/*
 writable/debugbar/*
 writable/session/*
 writable/uploads/*
+manage/Config/Database.php
+manage/Config/App.php
