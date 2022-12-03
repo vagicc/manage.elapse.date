@@ -1,0 +1,5 @@
+.env
+/public/static/uploads
+writable/cache/*
+writable/logs/*
+writable/debugbar/*
